@@ -3,7 +3,7 @@ import { Project, Experience, ResearchItem } from './types';
 
 export const NAME = "Plabon Dey";
 
-export const PROFILE_IMAGE = "profile.png";
+export const PROFILE_IMAGE = "profile.jpg";
 
 export const SOCIALS = {
   github: "https://github.com/plabon5150",
